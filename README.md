@@ -9,9 +9,7 @@ Questo progetto consente di scaricare l'intera playlist di YouTube presente in u
 
 ## Installazione
 
-1. Clona questo repository o scarica lo ZIP:  
-   git clone https://github.com/tuoaccount/youtube-playlist-downloader.git
-   cd youtube-playlist-downloader
+1. Clona questo repository o scarica lo ZIP
 
 2. Installa le dipendenze con:  
    pip install -r requirements.txt
